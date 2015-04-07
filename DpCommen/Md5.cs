@@ -20,12 +20,7 @@ namespace Commen
 
       
 
-       
- 
-
-      
-
-       
+         
 
         /// <summary>
         /// MD5加密字符串处理
